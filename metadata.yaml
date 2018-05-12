@@ -1,0 +1,31 @@
+_repo: Th-ses-pr-sent-es---la-Facult--des-Sciences-de-Paris-pour-le-doctorat--s-sciences-math-matiqu__31600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Floquet, Gaston
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '35351'
+    url: http://www.gutenberg.org/2009/agents/35351
+    wikipedia: http://fr.wikipedia.org/wiki/Achille_Marie_Gaston_Floquet
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2010-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31600'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Differential equations, Linear'
+- !lcc 'QA'
+title: Thèses présentées à la Faculté des Sciences de Paris pour le doctorat ès sciences
+  mathématiques
+url: http://www.gutenberg.org/ebooks/31600
