@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35351
     wikipedia: http://fr.wikipedia.org/wiki/Achille_Marie_Gaston_Floquet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31600#Th-ses-pr-sent-es---la-Facult--des-Sciences-de-Paris-pour-le-doctorat--s-sciences-math-matiqu_
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
